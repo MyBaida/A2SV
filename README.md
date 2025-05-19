@@ -7,6 +7,7 @@
 | [0073-set-matrix-zeroes](https://github.com/MyBaida/A2SV/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/MyBaida/A2SV/tree/master/0075-sort-colors) |
 | [0162-find-peak-element](https://github.com/MyBaida/A2SV/tree/master/0162-find-peak-element) |
+| [0456-132-pattern](https://github.com/MyBaida/A2SV/tree/master/0456-132-pattern) |
 ## Two Pointers
 |  |
 | ------- |
@@ -39,4 +40,17 @@
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/MyBaida/A2SV/tree/master/0162-find-peak-element) |
+| [0456-132-pattern](https://github.com/MyBaida/A2SV/tree/master/0456-132-pattern) |
+## Stack
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/MyBaida/A2SV/tree/master/0456-132-pattern) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/MyBaida/A2SV/tree/master/0456-132-pattern) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/MyBaida/A2SV/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
