@@ -41,6 +41,7 @@
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/MyBaida/A2SV/tree/master/0162-find-peak-element) |
+| [0374-guess-number-higher-or-lower](https://github.com/MyBaida/A2SV/tree/master/0374-guess-number-higher-or-lower) |
 | [0456-132-pattern](https://github.com/MyBaida/A2SV/tree/master/0456-132-pattern) |
 ## Stack
 |  |
@@ -54,4 +55,8 @@
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/MyBaida/A2SV/tree/master/0456-132-pattern) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/MyBaida/A2SV/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
