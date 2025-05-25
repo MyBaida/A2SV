@@ -54,6 +54,7 @@
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/MyBaida/A2SV/tree/master/0071-simplify-path) |
 | [0456-132-pattern](https://github.com/MyBaida/A2SV/tree/master/0456-132-pattern) |
 ## Monotonic Stack
 |  |
@@ -70,6 +71,7 @@
 ## String
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/MyBaida/A2SV/tree/master/0071-simplify-path) |
 | [0344-reverse-string](https://github.com/MyBaida/A2SV/tree/master/0344-reverse-string) |
 ## Counting Sort
 |  |
