@@ -85,4 +85,12 @@
 |  |
 | ------- |
 | [1370-count-number-of-nice-subarrays](https://github.com/MyBaida/A2SV/tree/master/1370-count-number-of-nice-subarrays) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/MyBaida/A2SV/tree/master/0024-swap-nodes-in-pairs) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/MyBaida/A2SV/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
