@@ -7,6 +7,7 @@
 | [0073-set-matrix-zeroes](https://github.com/MyBaida/A2SV/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/MyBaida/A2SV/tree/master/0075-sort-colors) |
 | [0162-find-peak-element](https://github.com/MyBaida/A2SV/tree/master/0162-find-peak-element) |
+| [0179-largest-number](https://github.com/MyBaida/A2SV/tree/master/0179-largest-number) |
 | [0456-132-pattern](https://github.com/MyBaida/A2SV/tree/master/0456-132-pattern) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/MyBaida/A2SV/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1370-count-number-of-nice-subarrays](https://github.com/MyBaida/A2SV/tree/master/1370-count-number-of-nice-subarrays) |
@@ -20,6 +21,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/MyBaida/A2SV/tree/master/0075-sort-colors) |
+| [0179-largest-number](https://github.com/MyBaida/A2SV/tree/master/0179-largest-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MyBaida/A2SV/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Math
 |  |
@@ -72,6 +74,7 @@
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/MyBaida/A2SV/tree/master/0071-simplify-path) |
+| [0179-largest-number](https://github.com/MyBaida/A2SV/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/MyBaida/A2SV/tree/master/0344-reverse-string) |
 ## Counting Sort
 |  |
@@ -93,4 +96,8 @@
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/MyBaida/A2SV/tree/master/0024-swap-nodes-in-pairs) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/MyBaida/A2SV/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
