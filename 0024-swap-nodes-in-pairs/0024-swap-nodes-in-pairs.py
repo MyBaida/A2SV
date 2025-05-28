@@ -8,18 +8,17 @@ class Solution:
         dummy = ListNode(0)
         dummy.next = head
         prev = dummy
-
-        while head and head.next:
-            first = head
-            second = head.next
-
-            # swapping
-            prev.next = first.next
+        
+        while prev.next and prev.next.next:
+            first = prev.next
+            second = first.next
+            
+            # Swap the nodes
+            prev.next = second
             first.next = second.next
             second.next = first
-
-            head = head.next
+            
+            # Move prev forward
             prev = first
-
-        return dummy.next
         
+        return dummy.next
