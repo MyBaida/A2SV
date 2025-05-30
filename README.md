@@ -76,6 +76,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/MyBaida/A2SV/tree/master/0014-longest-common-prefix) |
 | [0071-simplify-path](https://github.com/MyBaida/A2SV/tree/master/0071-simplify-path) |
 | [0179-largest-number](https://github.com/MyBaida/A2SV/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/MyBaida/A2SV/tree/master/0344-reverse-string) |
@@ -103,4 +104,8 @@
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/MyBaida/A2SV/tree/master/0179-largest-number) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/MyBaida/A2SV/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
