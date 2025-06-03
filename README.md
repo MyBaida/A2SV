@@ -14,6 +14,7 @@
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/MyBaida/A2SV/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1370-count-number-of-nice-subarrays](https://github.com/MyBaida/A2SV/tree/master/1370-count-number-of-nice-subarrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MyBaida/A2SV/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/MyBaida/A2SV/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -25,6 +26,7 @@
 | [0075-sort-colors](https://github.com/MyBaida/A2SV/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/MyBaida/A2SV/tree/master/0179-largest-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MyBaida/A2SV/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/MyBaida/A2SV/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Math
 |  |
 | ------- |
@@ -58,6 +60,7 @@
 | [0162-find-peak-element](https://github.com/MyBaida/A2SV/tree/master/0162-find-peak-element) |
 | [0374-guess-number-higher-or-lower](https://github.com/MyBaida/A2SV/tree/master/0374-guess-number-higher-or-lower) |
 | [0456-132-pattern](https://github.com/MyBaida/A2SV/tree/master/0456-132-pattern) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/MyBaida/A2SV/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Stack
 |  |
 | ------- |
