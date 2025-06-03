@@ -15,11 +15,13 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/MyBaida/A2SV/tree/master/1370-count-number-of-nice-subarrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MyBaida/A2SV/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/MyBaida/A2SV/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/MyBaida/A2SV/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Two Pointers
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/MyBaida/A2SV/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/MyBaida/A2SV/tree/master/0344-reverse-string) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/MyBaida/A2SV/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Sorting
 |  |
 | ------- |
@@ -27,6 +29,7 @@
 | [0179-largest-number](https://github.com/MyBaida/A2SV/tree/master/0179-largest-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MyBaida/A2SV/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/MyBaida/A2SV/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/MyBaida/A2SV/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Math
 |  |
 | ------- |
@@ -49,6 +52,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/MyBaida/A2SV/tree/master/0560-subarray-sum-equals-k) |
 | [1370-count-number-of-nice-subarrays](https://github.com/MyBaida/A2SV/tree/master/1370-count-number-of-nice-subarrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MyBaida/A2SV/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/MyBaida/A2SV/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Matrix
 |  |
 | ------- |
