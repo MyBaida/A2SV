@@ -9,6 +9,7 @@
 | [0075-sort-colors](https://github.com/MyBaida/A2SV/tree/master/0075-sort-colors) |
 | [0162-find-peak-element](https://github.com/MyBaida/A2SV/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/MyBaida/A2SV/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/MyBaida/A2SV/tree/master/0189-rotate-array) |
 | [0456-132-pattern](https://github.com/MyBaida/A2SV/tree/master/0456-132-pattern) |
 | [0498-diagonal-traverse](https://github.com/MyBaida/A2SV/tree/master/0498-diagonal-traverse) |
 | [0560-subarray-sum-equals-k](https://github.com/MyBaida/A2SV/tree/master/0560-subarray-sum-equals-k) |
@@ -21,6 +22,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/MyBaida/A2SV/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/MyBaida/A2SV/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/MyBaida/A2SV/tree/master/0344-reverse-string) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/MyBaida/A2SV/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Sorting
@@ -35,6 +37,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/MyBaida/A2SV/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/MyBaida/A2SV/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/MyBaida/A2SV/tree/master/0258-add-digits) |
 | [1370-count-number-of-nice-subarrays](https://github.com/MyBaida/A2SV/tree/master/1370-count-number-of-nice-subarrays) |
 ## Simulation
