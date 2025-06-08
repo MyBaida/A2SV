@@ -17,6 +17,7 @@
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/MyBaida/A2SV/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1370-count-number-of-nice-subarrays](https://github.com/MyBaida/A2SV/tree/master/1370-count-number-of-nice-subarrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MyBaida/A2SV/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/MyBaida/A2SV/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/MyBaida/A2SV/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/MyBaida/A2SV/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Two Pointers
@@ -33,6 +34,7 @@
 | [0075-sort-colors](https://github.com/MyBaida/A2SV/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/MyBaida/A2SV/tree/master/0179-largest-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MyBaida/A2SV/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/MyBaida/A2SV/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/MyBaida/A2SV/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/MyBaida/A2SV/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Math
@@ -42,6 +44,7 @@
 | [0189-rotate-array](https://github.com/MyBaida/A2SV/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/MyBaida/A2SV/tree/master/0258-add-digits) |
 | [1370-count-number-of-nice-subarrays](https://github.com/MyBaida/A2SV/tree/master/1370-count-number-of-nice-subarrays) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/MyBaida/A2SV/tree/master/1683-maximum-number-of-coins-you-can-get) |
 ## Simulation
 |  |
 | ------- |
@@ -123,8 +126,13 @@
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/MyBaida/A2SV/tree/master/0179-largest-number) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/MyBaida/A2SV/tree/master/1683-maximum-number-of-coins-you-can-get) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/MyBaida/A2SV/tree/master/0014-longest-common-prefix) |
+## Game Theory
+|  |
+| ------- |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/MyBaida/A2SV/tree/master/1683-maximum-number-of-coins-you-can-get) |
 <!---LeetCode Topics End-->
