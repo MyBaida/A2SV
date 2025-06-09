@@ -1,6 +1,5 @@
 class Solution:
     def pancakeSort(self, arr: List[int]) -> List[int]:
-        
         n = len(arr)
         output = []
 
@@ -12,7 +11,6 @@ class Solution:
             output.append(max_index)
 
             arr[:n-i] = reversed(arr[:n-i])
-
             output.append(n-i)
 
         return output
