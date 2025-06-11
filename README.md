@@ -29,6 +29,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MyBaida/A2SV/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/MyBaida/A2SV/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/MyBaida/A2SV/tree/master/0344-reverse-string) |
+| [0633-sum-of-square-numbers](https://github.com/MyBaida/A2SV/tree/master/0633-sum-of-square-numbers) |
 | [0768-partition-labels](https://github.com/MyBaida/A2SV/tree/master/0768-partition-labels) |
 | [1009-pancake-sorting](https://github.com/MyBaida/A2SV/tree/master/1009-pancake-sorting) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/MyBaida/A2SV/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -48,6 +49,7 @@
 | [0009-palindrome-number](https://github.com/MyBaida/A2SV/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/MyBaida/A2SV/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/MyBaida/A2SV/tree/master/0258-add-digits) |
+| [0633-sum-of-square-numbers](https://github.com/MyBaida/A2SV/tree/master/0633-sum-of-square-numbers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/MyBaida/A2SV/tree/master/1370-count-number-of-nice-subarrays) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/MyBaida/A2SV/tree/master/1683-maximum-number-of-coins-you-can-get) |
 ## Simulation
@@ -84,6 +86,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MyBaida/A2SV/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0374-guess-number-higher-or-lower](https://github.com/MyBaida/A2SV/tree/master/0374-guess-number-higher-or-lower) |
 | [0456-132-pattern](https://github.com/MyBaida/A2SV/tree/master/0456-132-pattern) |
+| [0633-sum-of-square-numbers](https://github.com/MyBaida/A2SV/tree/master/0633-sum-of-square-numbers) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/MyBaida/A2SV/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Stack
 |  |
