@@ -14,6 +14,7 @@
 | [0456-132-pattern](https://github.com/MyBaida/A2SV/tree/master/0456-132-pattern) |
 | [0498-diagonal-traverse](https://github.com/MyBaida/A2SV/tree/master/0498-diagonal-traverse) |
 | [0560-subarray-sum-equals-k](https://github.com/MyBaida/A2SV/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/MyBaida/A2SV/tree/master/0643-maximum-average-subarray-i) |
 | [0898-transpose-matrix](https://github.com/MyBaida/A2SV/tree/master/0898-transpose-matrix) |
 | [1009-pancake-sorting](https://github.com/MyBaida/A2SV/tree/master/1009-pancake-sorting) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/MyBaida/A2SV/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
@@ -120,6 +121,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/MyBaida/A2SV/tree/master/0643-maximum-average-subarray-i) |
 | [1370-count-number-of-nice-subarrays](https://github.com/MyBaida/A2SV/tree/master/1370-count-number-of-nice-subarrays) |
 ## Prefix Sum
 |  |
