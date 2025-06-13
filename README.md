@@ -17,6 +17,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/MyBaida/A2SV/tree/master/0643-maximum-average-subarray-i) |
 | [0898-transpose-matrix](https://github.com/MyBaida/A2SV/tree/master/0898-transpose-matrix) |
 | [1009-pancake-sorting](https://github.com/MyBaida/A2SV/tree/master/1009-pancake-sorting) |
+| [1020-longest-turbulent-subarray](https://github.com/MyBaida/A2SV/tree/master/1020-longest-turbulent-subarray) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/MyBaida/A2SV/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1370-count-number-of-nice-subarrays](https://github.com/MyBaida/A2SV/tree/master/1370-count-number-of-nice-subarrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MyBaida/A2SV/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -122,6 +123,7 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/MyBaida/A2SV/tree/master/0643-maximum-average-subarray-i) |
+| [1020-longest-turbulent-subarray](https://github.com/MyBaida/A2SV/tree/master/1020-longest-turbulent-subarray) |
 | [1370-count-number-of-nice-subarrays](https://github.com/MyBaida/A2SV/tree/master/1370-count-number-of-nice-subarrays) |
 ## Prefix Sum
 |  |
@@ -151,4 +153,8 @@
 |  |
 | ------- |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/MyBaida/A2SV/tree/master/1683-maximum-number-of-coins-you-can-get) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1020-longest-turbulent-subarray](https://github.com/MyBaida/A2SV/tree/master/1020-longest-turbulent-subarray) |
 <!---LeetCode Topics End-->
