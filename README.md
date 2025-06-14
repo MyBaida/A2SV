@@ -94,6 +94,7 @@
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/MyBaida/A2SV/tree/master/0071-simplify-path) |
+| [0155-min-stack](https://github.com/MyBaida/A2SV/tree/master/0155-min-stack) |
 | [0456-132-pattern](https://github.com/MyBaida/A2SV/tree/master/0456-132-pattern) |
 ## Monotonic Stack
 |  |
@@ -157,4 +158,8 @@
 |  |
 | ------- |
 | [1020-longest-turbulent-subarray](https://github.com/MyBaida/A2SV/tree/master/1020-longest-turbulent-subarray) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/MyBaida/A2SV/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
