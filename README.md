@@ -11,6 +11,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MyBaida/A2SV/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/MyBaida/A2SV/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/MyBaida/A2SV/tree/master/0189-rotate-array) |
+| [0303-range-sum-query-immutable](https://github.com/MyBaida/A2SV/tree/master/0303-range-sum-query-immutable) |
 | [0456-132-pattern](https://github.com/MyBaida/A2SV/tree/master/0456-132-pattern) |
 | [0498-diagonal-traverse](https://github.com/MyBaida/A2SV/tree/master/0498-diagonal-traverse) |
 | [0560-subarray-sum-equals-k](https://github.com/MyBaida/A2SV/tree/master/0560-subarray-sum-equals-k) |
@@ -129,6 +130,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/MyBaida/A2SV/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/MyBaida/A2SV/tree/master/0560-subarray-sum-equals-k) |
 | [1370-count-number-of-nice-subarrays](https://github.com/MyBaida/A2SV/tree/master/1370-count-number-of-nice-subarrays) |
 ## Linked List
@@ -163,4 +165,5 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/MyBaida/A2SV/tree/master/0155-min-stack) |
+| [0303-range-sum-query-immutable](https://github.com/MyBaida/A2SV/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
