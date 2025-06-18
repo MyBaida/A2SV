@@ -70,6 +70,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/MyBaida/A2SV/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/MyBaida/A2SV/tree/master/0073-set-matrix-zeroes) |
+| [0424-longest-repeating-character-replacement](https://github.com/MyBaida/A2SV/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/MyBaida/A2SV/tree/master/0560-subarray-sum-equals-k) |
 | [0768-partition-labels](https://github.com/MyBaida/A2SV/tree/master/0768-partition-labels) |
 | [1370-count-number-of-nice-subarrays](https://github.com/MyBaida/A2SV/tree/master/1370-count-number-of-nice-subarrays) |
@@ -116,6 +117,7 @@
 | [0071-simplify-path](https://github.com/MyBaida/A2SV/tree/master/0071-simplify-path) |
 | [0179-largest-number](https://github.com/MyBaida/A2SV/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/MyBaida/A2SV/tree/master/0344-reverse-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/MyBaida/A2SV/tree/master/0424-longest-repeating-character-replacement) |
 | [0768-partition-labels](https://github.com/MyBaida/A2SV/tree/master/0768-partition-labels) |
 ## Counting Sort
 |  |
@@ -124,6 +126,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/MyBaida/A2SV/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/MyBaida/A2SV/tree/master/0643-maximum-average-subarray-i) |
 | [1020-longest-turbulent-subarray](https://github.com/MyBaida/A2SV/tree/master/1020-longest-turbulent-subarray) |
 | [1370-count-number-of-nice-subarrays](https://github.com/MyBaida/A2SV/tree/master/1370-count-number-of-nice-subarrays) |
