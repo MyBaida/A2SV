@@ -8,4 +8,5 @@ class Solution:
             cur += r
             res += sums.get(cur-k,0)
             sums[cur]= 1+ sums.get(cur,0)
+            
         return res
