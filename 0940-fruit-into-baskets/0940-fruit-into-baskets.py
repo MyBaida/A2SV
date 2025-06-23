@@ -1,9 +1,10 @@
 class Solution:
     def totalFruit(self, fruits: List[int]) -> int:
-        baskets = Counter()
+        baskets = defaultdict(int)
         max_length = 0
 
         l = 0
+        
         for r in range(len(fruits)):
             baskets[fruits[r]] += 1
 
