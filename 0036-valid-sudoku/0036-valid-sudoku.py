@@ -8,7 +8,6 @@ class Solution:
                     if board[i][j] in row:
                         return False
                     row.append(board[i][j])
-
         
         # col check
         for i in range(9):
@@ -19,7 +18,6 @@ class Solution:
                         return False
                     col.append(board[j][i])
                     
-              
         # grid check
         grid = defaultdict(list)
         for i in range(9):
