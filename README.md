@@ -33,6 +33,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MyBaida/A2SV/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/MyBaida/A2SV/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/MyBaida/A2SV/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/MyBaida/A2SV/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/MyBaida/A2SV/tree/master/0633-sum-of-square-numbers) |
 | [0768-partition-labels](https://github.com/MyBaida/A2SV/tree/master/0768-partition-labels) |
 | [1009-pancake-sorting](https://github.com/MyBaida/A2SV/tree/master/1009-pancake-sorting) |
@@ -73,6 +74,7 @@
 | [0073-set-matrix-zeroes](https://github.com/MyBaida/A2SV/tree/master/0073-set-matrix-zeroes) |
 | [0424-longest-repeating-character-replacement](https://github.com/MyBaida/A2SV/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/MyBaida/A2SV/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/MyBaida/A2SV/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/MyBaida/A2SV/tree/master/0768-partition-labels) |
 | [0940-fruit-into-baskets](https://github.com/MyBaida/A2SV/tree/master/0940-fruit-into-baskets) |
 | [1370-count-number-of-nice-subarrays](https://github.com/MyBaida/A2SV/tree/master/1370-count-number-of-nice-subarrays) |
@@ -120,6 +122,7 @@
 | [0179-largest-number](https://github.com/MyBaida/A2SV/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/MyBaida/A2SV/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/MyBaida/A2SV/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/MyBaida/A2SV/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/MyBaida/A2SV/tree/master/0768-partition-labels) |
 ## Counting Sort
 |  |
@@ -129,6 +132,7 @@
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/MyBaida/A2SV/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/MyBaida/A2SV/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/MyBaida/A2SV/tree/master/0643-maximum-average-subarray-i) |
 | [0940-fruit-into-baskets](https://github.com/MyBaida/A2SV/tree/master/0940-fruit-into-baskets) |
 | [1020-longest-turbulent-subarray](https://github.com/MyBaida/A2SV/tree/master/1020-longest-turbulent-subarray) |
