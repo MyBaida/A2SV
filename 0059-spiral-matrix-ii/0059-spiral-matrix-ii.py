@@ -23,9 +23,6 @@ class Solution:
 
             right -= 1
 
-            # if not(left < right and top < bottom):
-            #     break
-
             # bottom traversal
             for i in range(right-1, left-1, -1):
                 matrix[bottom-1][i] = num
