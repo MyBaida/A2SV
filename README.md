@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/MyBaida/A2SV/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/MyBaida/A2SV/tree/master/0049-group-anagrams) |
 | [0059-spiral-matrix-ii](https://github.com/MyBaida/A2SV/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/MyBaida/A2SV/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/MyBaida/A2SV/tree/master/0075-sort-colors) |
@@ -42,6 +43,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/MyBaida/A2SV/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/MyBaida/A2SV/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/MyBaida/A2SV/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/MyBaida/A2SV/tree/master/0242-valid-anagram) |
@@ -74,6 +76,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/MyBaida/A2SV/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/MyBaida/A2SV/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/MyBaida/A2SV/tree/master/0073-set-matrix-zeroes) |
 | [0242-valid-anagram](https://github.com/MyBaida/A2SV/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/MyBaida/A2SV/tree/master/0424-longest-repeating-character-replacement) |
@@ -123,6 +126,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/MyBaida/A2SV/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/MyBaida/A2SV/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/MyBaida/A2SV/tree/master/0071-simplify-path) |
 | [0179-largest-number](https://github.com/MyBaida/A2SV/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/MyBaida/A2SV/tree/master/0242-valid-anagram) |
