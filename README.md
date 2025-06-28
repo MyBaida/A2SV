@@ -34,6 +34,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MyBaida/A2SV/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/MyBaida/A2SV/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/MyBaida/A2SV/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MyBaida/A2SV/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/MyBaida/A2SV/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/MyBaida/A2SV/tree/master/0344-reverse-string) |
@@ -130,6 +131,7 @@
 | [0014-longest-common-prefix](https://github.com/MyBaida/A2SV/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/MyBaida/A2SV/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/MyBaida/A2SV/tree/master/0071-simplify-path) |
+| [0125-valid-palindrome](https://github.com/MyBaida/A2SV/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/MyBaida/A2SV/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/MyBaida/A2SV/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/MyBaida/A2SV/tree/master/0344-reverse-string) |
