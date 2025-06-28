@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/MyBaida/A2SV/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/MyBaida/A2SV/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/MyBaida/A2SV/tree/master/0049-group-anagrams) |
 | [0059-spiral-matrix-ii](https://github.com/MyBaida/A2SV/tree/master/0059-spiral-matrix-ii) |
@@ -31,6 +32,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/MyBaida/A2SV/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/MyBaida/A2SV/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MyBaida/A2SV/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/MyBaida/A2SV/tree/master/0189-rotate-array) |
