@@ -44,6 +44,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/MyBaida/A2SV/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/MyBaida/A2SV/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/MyBaida/A2SV/tree/master/0242-valid-anagram) |
 | [1009-pancake-sorting](https://github.com/MyBaida/A2SV/tree/master/1009-pancake-sorting) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MyBaida/A2SV/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/MyBaida/A2SV/tree/master/1683-maximum-number-of-coins-you-can-get) |
@@ -74,6 +75,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/MyBaida/A2SV/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/MyBaida/A2SV/tree/master/0073-set-matrix-zeroes) |
+| [0242-valid-anagram](https://github.com/MyBaida/A2SV/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/MyBaida/A2SV/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/MyBaida/A2SV/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/MyBaida/A2SV/tree/master/0567-permutation-in-string) |
@@ -123,6 +125,7 @@
 | [0014-longest-common-prefix](https://github.com/MyBaida/A2SV/tree/master/0014-longest-common-prefix) |
 | [0071-simplify-path](https://github.com/MyBaida/A2SV/tree/master/0071-simplify-path) |
 | [0179-largest-number](https://github.com/MyBaida/A2SV/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/MyBaida/A2SV/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/MyBaida/A2SV/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/MyBaida/A2SV/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/MyBaida/A2SV/tree/master/0567-permutation-in-string) |
