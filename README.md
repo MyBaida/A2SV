@@ -7,6 +7,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MyBaida/A2SV/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/MyBaida/A2SV/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/MyBaida/A2SV/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/MyBaida/A2SV/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/MyBaida/A2SV/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/MyBaida/A2SV/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/MyBaida/A2SV/tree/master/0075-sort-colors) |
@@ -67,6 +68,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/MyBaida/A2SV/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/MyBaida/A2SV/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/MyBaida/A2SV/tree/master/0258-add-digits) |
 | [0498-diagonal-traverse](https://github.com/MyBaida/A2SV/tree/master/0498-diagonal-traverse) |
@@ -94,6 +96,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/MyBaida/A2SV/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/MyBaida/A2SV/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/MyBaida/A2SV/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/MyBaida/A2SV/tree/master/0073-set-matrix-zeroes) |
 | [0498-diagonal-traverse](https://github.com/MyBaida/A2SV/tree/master/0498-diagonal-traverse) |
