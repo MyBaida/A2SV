@@ -29,6 +29,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MyBaida/A2SV/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/MyBaida/A2SV/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/MyBaida/A2SV/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2551-apply-operations-to-an-array](https://github.com/MyBaida/A2SV/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/MyBaida/A2SV/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Two Pointers
 |  |
@@ -43,6 +44,7 @@
 | [0633-sum-of-square-numbers](https://github.com/MyBaida/A2SV/tree/master/0633-sum-of-square-numbers) |
 | [0768-partition-labels](https://github.com/MyBaida/A2SV/tree/master/0768-partition-labels) |
 | [1009-pancake-sorting](https://github.com/MyBaida/A2SV/tree/master/1009-pancake-sorting) |
+| [2551-apply-operations-to-an-array](https://github.com/MyBaida/A2SV/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/MyBaida/A2SV/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Sorting
 |  |
@@ -73,6 +75,7 @@
 | [0258-add-digits](https://github.com/MyBaida/A2SV/tree/master/0258-add-digits) |
 | [0498-diagonal-traverse](https://github.com/MyBaida/A2SV/tree/master/0498-diagonal-traverse) |
 | [0898-transpose-matrix](https://github.com/MyBaida/A2SV/tree/master/0898-transpose-matrix) |
+| [2551-apply-operations-to-an-array](https://github.com/MyBaida/A2SV/tree/master/2551-apply-operations-to-an-array) |
 ## Number Theory
 |  |
 | ------- |
