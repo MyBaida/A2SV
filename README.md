@@ -29,6 +29,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MyBaida/A2SV/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/MyBaida/A2SV/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/MyBaida/A2SV/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2261-all-divisions-with-the-highest-score-of-a-binary-array](https://github.com/MyBaida/A2SV/tree/master/2261-all-divisions-with-the-highest-score-of-a-binary-array) |
 | [2551-apply-operations-to-an-array](https://github.com/MyBaida/A2SV/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/MyBaida/A2SV/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Two Pointers
