@@ -16,6 +16,7 @@
 | [0179-largest-number](https://github.com/MyBaida/A2SV/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/MyBaida/A2SV/tree/master/0189-rotate-array) |
 | [0303-range-sum-query-immutable](https://github.com/MyBaida/A2SV/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/MyBaida/A2SV/tree/master/0304-range-sum-query-2d-immutable) |
 | [0456-132-pattern](https://github.com/MyBaida/A2SV/tree/master/0456-132-pattern) |
 | [0498-diagonal-traverse](https://github.com/MyBaida/A2SV/tree/master/0498-diagonal-traverse) |
 | [0560-subarray-sum-equals-k](https://github.com/MyBaida/A2SV/tree/master/0560-subarray-sum-equals-k) |
@@ -103,6 +104,7 @@
 | [0054-spiral-matrix](https://github.com/MyBaida/A2SV/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/MyBaida/A2SV/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/MyBaida/A2SV/tree/master/0073-set-matrix-zeroes) |
+| [0304-range-sum-query-2d-immutable](https://github.com/MyBaida/A2SV/tree/master/0304-range-sum-query-2d-immutable) |
 | [0498-diagonal-traverse](https://github.com/MyBaida/A2SV/tree/master/0498-diagonal-traverse) |
 | [0898-transpose-matrix](https://github.com/MyBaida/A2SV/tree/master/0898-transpose-matrix) |
 ## Binary Search
@@ -162,6 +164,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/MyBaida/A2SV/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/MyBaida/A2SV/tree/master/0304-range-sum-query-2d-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/MyBaida/A2SV/tree/master/0560-subarray-sum-equals-k) |
 | [1370-count-number-of-nice-subarrays](https://github.com/MyBaida/A2SV/tree/master/1370-count-number-of-nice-subarrays) |
 ## Linked List
@@ -197,4 +200,5 @@
 | ------- |
 | [0155-min-stack](https://github.com/MyBaida/A2SV/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/MyBaida/A2SV/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/MyBaida/A2SV/tree/master/0304-range-sum-query-2d-immutable) |
 <!---LeetCode Topics End-->
