@@ -8,6 +8,7 @@ class Solution:
 
         while len(output) < len(mat)*len(mat[0]):
             if up:
+                
                 while i >= 0 and j < len(mat[0]):
                     output.append(mat[i][j])
                     i -= 1
@@ -23,6 +24,7 @@ class Solution:
                 up = False
 
             else:
+
                 while j >= 0 and i < len(mat):
                     output.append(mat[i][j])
                     i += 1
