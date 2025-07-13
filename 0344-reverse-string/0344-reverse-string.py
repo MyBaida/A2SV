@@ -8,5 +8,6 @@ class Solution:
             s[first],s[last] = s[last],s[first]
 
             first += 1
+            
             last -= 1
         
